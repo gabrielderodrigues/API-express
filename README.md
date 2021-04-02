@@ -10,7 +10,7 @@
 <h2> Como instalar as bibliotecas </h2>
 <ul>
   <li>Express</li>
-  <p> npm install express </p>
+  <p> <strong>Comando:</strong> npm install express </p>
   <li>Nodemon</li>
-  <p> npm install nodemon </p>
+  <p> <strong>Comando:</strong> npm install nodemon </p>
 </ul>
